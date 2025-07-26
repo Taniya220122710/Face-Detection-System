@@ -16,20 +16,20 @@ This project is a real-time face detection system built using Python, OpenCV, an
 
 🖥️ Simple and clean GUI using Tkinter
 
-How It Works
-Camera Initialization
+How It Works:
+
+ 1.Camera Initialization
+
 When the "Start Camera" button is clicked, the system activates the webcam and begins capturing frames.
 
-Face Detection
-Each frame is:
-
-Flipped horizontally for a mirror view
+ 2.Face Detection
+Each frame is:Flipped horizontally for a mirror view
 
 Converted to grayscale
 
 Passed through Haar Cascade Classifier (haarcascade_frontalface_default.xml) to detect faces
 
-Drawing and Display
+ 3.Drawing and Display
 
 Green rectangles are drawn around detected faces
 
