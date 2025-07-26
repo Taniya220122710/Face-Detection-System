@@ -1,7 +1,7 @@
    Face Detection System with GUI (Python + OpenCV + Tkinter)
 This project is a real-time face detection system built using Python, OpenCV, and Tkinter. It leverages the power of Haar Cascade Classifiers to detect faces in live video streams and displays the result in an interactive graphical user interface (GUI). The system is lightweight, responsive, and ideal for basic face detection use-cases, educational purposes, and demos.
 
-  Features
+  # Features
 🎥 Live video stream from webcam
 
 🧠 Real-time face detection using Haar cascades
@@ -16,7 +16,8 @@ This project is a real-time face detection system built using Python, OpenCV, an
 
 🖥️ Simple and clean GUI using Tkinter
 
-How It Works:
+  
+  # How It Works:
 
  1.Camera Initialization
 
@@ -41,7 +42,7 @@ Camera Stop
 
 On clicking "Stop Camera" or closing the window, the video stream is released safely.
 
-Requirements
+ # Requirements
 
 Python 3.x
 
@@ -49,7 +50,7 @@ OpenCV
 
 Pillow (for image handling in Tkinter)
 
-Output Preview
+# Output Preview
 
 When the camera is started, the application shows a live feed with green rectangles around faces and a count like:
 
