@@ -38,13 +38,20 @@ Text showing the number of detected faces is overlaid
 The frame is converted to RGB and displayed in the Tkinter window using Pillow
 
 Camera Stop
+
 On clicking "Stop Camera" or closing the window, the video stream is released safely.
+
 Requirements
+
 Python 3.x
+
 OpenCV
+
 Pillow (for image handling in Tkinter)
 
 Output Preview
+
 When the camera is started, the application shows a live feed with green rectangles around faces and a count like:
+
   fece detected : 2
 
