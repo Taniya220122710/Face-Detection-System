@@ -54,5 +54,9 @@ Pillow (for image handling in Tkinter)
 
 When the camera is started, the application shows a live feed with green rectangles around faces and a count like:
 
-  fece detected : 2
+  fece detected : 1
+  <img width="299" height="271" alt="Screenshot 2025-08-02 183553" src="https://github.com/user-attachments/assets/0f1ed614-bdb8-41b9-9653-5833ed914cf9" /> 
+  <img width="814" height="748" alt="Screenshot 2025-08-02 183614" src="https://github.com/user-attachments/assets/0f6e356f-c3bb-4c72-9145-6b72ec3cfdb4" />
+
+
 
